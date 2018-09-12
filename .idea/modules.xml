@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/sort/algorithm.iml" filepath="$PROJECT_DIR$/sort/algorithm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/divide_conquer/divide_conquer.iml" filepath="$PROJECT_DIR$/divide_conquer/divide_conquer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exhaustion/exhaustion.iml" filepath="$PROJECT_DIR$/exhaustion/exhaustion.iml" />
+      <module fileurl="file://$PROJECT_DIR$/greedy/greedy.iml" filepath="$PROJECT_DIR$/greedy/greedy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-algorithm-study.iml" filepath="$PROJECT_DIR$/java-algorithm-study.iml" />
+      <module fileurl="file://$PROJECT_DIR$/math/math.iml" filepath="$PROJECT_DIR$/math/math.iml" />
+      <module fileurl="file://$PROJECT_DIR$/recursion/recursion.iml" filepath="$PROJECT_DIR$/recursion/recursion.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sort/sort.iml" filepath="$PROJECT_DIR$/sort/sort.iml" />
+    </modules>
+  </component>
+</project>
